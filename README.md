@@ -170,6 +170,7 @@ Skills are organized into four phases. Use them in order for new projects, or ju
 | [backlink-analyzer](./monitor/backlink-analyzer/) | Analyze backlink profile, find opportunities, detect toxic links |
 | [performance-reporter](./monitor/performance-reporter/) | Generate SEO/GEO performance reports for stakeholders |
 | [alert-manager](./monitor/alert-manager/) | Set up alerts for ranking drops, traffic changes, and technical issues |
+| [cps-scorer](./monitor/cps-scorer/) | Score any URL for AI citation readiness using the CPS® (Citation Probability Score®) framework by Cited By AI® |
 
 ### Cross-cutting — span all phases
 
